@@ -35,3 +35,7 @@ Kaynak: https://github.com/AssiamahS/opengym3d
 - GitHub Pages adresi herkese açık olur; ancak egzersiz kayıtları GitHub'a gönderilmez, yalnızca kullandığın cihazda tutulur.
 - Three.js modülü CDN üzerinden yüklenir; ilk açılışta ve 3D görüntüleyici altyapısında internet gerekir. Temel uygulama kabuğu önbelleğe alınır.
 - Bu uygulama tıbbi öneri veya fizyoterapi programı değildir. Diz ağrısı, özellikle merdivende ani ağrı varsa egzersizleri hekim/fizyoterapist değerlendirmesiyle uyarlamak gerekir.
+
+
+## Sürüm 2.1.0 prototip notu
+Göğüs press hareketinde stilize CSS 3D sahne prototipi bulunur. Bu gerçek rig/GLB insan modeli değildir ve anatomik eğitim animasyonu olarak doğrulanmamıştır. Diğer egzersizlerde animasyon yoktur. Prototip harici 3D kütüphanesi gerektirmez.
