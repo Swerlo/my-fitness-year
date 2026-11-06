@@ -37,5 +37,9 @@ Kaynak: https://github.com/AssiamahS/opengym3d
 - Bu uygulama tıbbi öneri veya fizyoterapi programı değildir. Diz ağrısı, özellikle merdivende ani ağrı varsa egzersizleri hekim/fizyoterapist değerlendirmesiyle uyarlamak gerekir.
 
 
-## Sürüm 2.1.0 prototip notu
+## Sürüm 2.2.0 prototip notu
 Göğüs press hareketinde stilize CSS 3D sahne prototipi bulunur. Bu gerçek rig/GLB insan modeli değildir ve anatomik eğitim animasyonu olarak doğrulanmamıştır. Diğer egzersizlerde animasyon yoktur. Prototip harici 3D kütüphanesi gerektirmez.
+
+
+## 2.2.0 notu
+Göğüs press sahnesi daha anlaşılır oturma/makine yerleşimi, belirgin kol hareketi, tutacak ve hareket açıklamalarıyla güncellendi. Bu hâlâ katmanlı CSS 2.5D görsel prototiptir; gerçek 3D anatomik model veya biyomekanik doğrulaması değildir.
