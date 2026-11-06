@@ -1,0 +1,17 @@
+{
+  "name": "My Fitness Year",
+  "short_name": "My Fitness",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b09",
+  "theme_color": "#080d0b",
+  "description": "Kişisel fitness, yüzme ve gelişim takip uygulaması",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
